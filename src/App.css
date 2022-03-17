@@ -34,8 +34,6 @@
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   padding: 0 2em;
-
-  margin-bottom: 1rem;
 }
 
 .note {
