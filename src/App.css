@@ -34,6 +34,8 @@
   gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   padding: 0 2em;
+
+  margin-bottom: 1rem;
 }
 
 .note {
@@ -46,13 +48,13 @@
   border-radius: 10px;
 }
 .note.new {
-  background-color: #073b3a;
+  background-color: #e6af2e;
 }
 
 textarea {
   border: none;
   resize: none;
-  background-color: #073b3a;
+  background-color: #e6af2e;
 }
 
 textarea:focus {
