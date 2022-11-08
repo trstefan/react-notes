@@ -3,11 +3,11 @@
 
 Sticky Notes application built using React and React Hooks. 
 
-### Demo
+## Demo
 
 Here is a working live demo : [_trstefan.github.io/react-notes/_](trstefan.github.io/react-notes/)
 
-### Screenshots
+## Screenshots
 
 #### Light Mode (default mode) 
 ![Alternate image text](https://i.ibb.co/2vzCDKN/Notes.png)
@@ -17,7 +17,7 @@ Here is a working live demo : [_trstefan.github.io/react-notes/_](trstefan.githu
 
 
 
-### Built With
+## Built With
 
 - HTML
 - CSS
@@ -33,7 +33,7 @@ Here is a working live demo : [_trstefan.github.io/react-notes/_](trstefan.githu
 - Cross platform
 - Tablet & mobile friendly
 
-### Run locally 
+## Run locally 
 
 Clone the project
 
