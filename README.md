@@ -1,40 +1,30 @@
+# Sticky Notes App - ReactJS
 
-# React Sticky Notes App
+## :link:	Live Demo 
 
-Sticky Notes application built using React and React Hooks. 
+[Demo Link](https://trstefan.github.io/react-notes/)
 
-## Demo
+## 📷 Screenshot
 
-Here is a working live demo : [_trstefan.github.io/react-notes/_](trstefan.github.io/react-notes/)
+## 📝 Project Description
 
-## Screenshots
+Sticky Notes application built using React and React Hooks.
 
-#### Light Mode (default mode) 
-![Alternate image text](https://i.ibb.co/2vzCDKN/Notes.png)
+## 📚 Technologies
 
-#### Dark Mode 
-![Alternate image text](https://i.ibb.co/Fb6KnWc/Notes-Dark-Mode.png)
-
-
-
-## Built With
-
-- HTML
-- CSS
-- Javascript
 - ReactJS
-- React Hooks (useState, useEffect) 
+- ReactHooks
+- CSS
 
-## Features
+## 🎯 Features
 
-- Add/remove notes
-- Light/dark mode toggle
+- Add/remove note
+- Dark Mode
 - Notes saved locally
 - Cross platform
 - Tablet & mobile friendly
 
-## Run locally 
-
+## :runner: Run Locally 
 Clone the project
 
 ```bash
